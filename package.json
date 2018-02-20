@@ -1,17 +1,23 @@
 {
-  "name": "mozaik-ext-gitlab",
-  "version": "0.2.1",
+  "name": "@tlake/mozaik-ext-gitlab",
+  "version": "0.2.2",
   "description": "Mozaik GitLab widgets",
   "repository": {
     "type": "git",
-    "url": "git://github.com/plouc/mozaik-ext-gitlab"
+    "url": "git://github.com/tlake/mozaik-ext-gitlab"
   },
   "license": "MIT",
   "author": {
     "name": "Raphaël Benitte",
     "url": "https://github.com/plouc"
   },
-  "homepage": "https://github.com/plouc/mozaik-ext-gitlab",
+  "contributors": [
+      {
+          "name": "Tanner Lake",
+          "url": "https://github.com/tlake"
+      }
+  ],
+  "homepage": "https://github.com/tlake/mozaik-ext-gitlab",
   "main": "./src/components/index.js",
   "keywords": [
     "gitlab",
